@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845356008514",
+    "project_id": "plantip-b2e01",
+    "storage_bucket": "plantip-b2e01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845356008514:android:a23a72ec6168e33d09d9db",
+        "android_client_info": {
+          "package_name": "com.hdgroup.plantip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845356008514-nr4jn1goiuh68eb78fot3r5hgq9jbacd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEszhvMMjTu4FXCkLFwPMWSapcr0A9T7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845356008514-nr4jn1goiuh68eb78fot3r5hgq9jbacd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
